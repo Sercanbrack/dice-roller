@@ -1,7 +1,11 @@
+import DiceCard from '../components/DiceCard'
 
-
-function DicePage () {
-    
+const DicePage = () => {
+    return (
+        <div className='flex'>
+            <DiceCard></DiceCard>
+        </div>
+    )
 }
 
 export default DicePage

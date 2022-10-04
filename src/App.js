@@ -1,4 +1,4 @@
-import { DicePage } from './pages/DicePage'
+import DicePage from './pages/DicePage'
 import './App.css';
 
 function App() {
